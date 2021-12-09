@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = /content/drive/DATOS_DRIVE/dvc_0912/dvcstore
+    url = /content/drive/MyDrive/DATOS_DRIVE/dvc_0912/dvcstore
